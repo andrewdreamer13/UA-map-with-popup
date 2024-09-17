@@ -1,0 +1,35 @@
+@mixin font-face($font-family, $url, $weight, $style) {
+  @font-face {
+    font-family: "#{$font-family}";
+     src: url('../fonts/#{$url}.woff2') format("woff2");
+    font-weight: #{$weight};
+    font-display: swap;
+    font-style: $style;
+  }
+}
+
+@mixin flex-mix($justify, $align, $direction, $gap) {
+  display: flex;
+  justify-content: $justify;
+  align-items: $align;
+  flex-direction: $direction;
+  gap: #{$gap}px;
+}
+
+@mixin grid-minmax($repeat, $min, $max, $gap) {
+  display: grid;
+  grid-template-columns: repeat($repeat, minmax($min, $max));
+   gap: #{$gap}px;
+}
+
+@mixin grid-auto-fit($width, $gap) {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, $width);
+  gap: $gap;
+}
+
+@mixin grid-auto-fill($width, $gap) {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, $width);
+  gap: $gap;
+}

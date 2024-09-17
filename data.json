@@ -1,0 +1,178 @@
+[
+  {
+    "id": "UA71",
+    "oblast": "Cherkasy oblast",
+    "capital": "Cherkasy",
+    "src": "img/ua-map/cherkasy.png",
+    "alt": "Cherkasy's coat of arms"
+  },
+  {
+    "id": "UA74",
+    "oblast": "Chernigiv oblast",
+    "capital": "Chernigiv",
+    "src": "img/ua-map/chernigiv.png",
+    "alt": "Chernigiv's coat of arms"
+  },
+  {
+    "id": "UA77",
+    "oblast": "Chernivtsi oblast",
+    "capital": "Chernivtsi",
+    "src": "img/ua-map/chernivtsi.png",
+    "alt": "Chernivtsi's coat of arms"
+  },
+  {
+    "id": "UA12",
+    "oblast": "Dnipropetrovsk Oblast",
+    "capital": "Dnipro",
+    "src": "img/ua-map/dnipro.png",
+    "alt": "Dnipro's coat of arms"
+  },
+  {
+    "id": "UA14",
+    "oblast": "Donetsk Oblast",
+    "capital": "Donetsk",
+    "src": "img/ua-map/donetsk.png",
+    "alt": "Donetsk's coat of arms"
+  },
+  {
+    "id": "UA26",
+    "oblast": "Ivano-Frankivsk Oblast",
+    "capital": "Ivano-Frankivsk",
+    "src": "img/ua-map/frankivsk.png",
+    "alt": "Ivano-Frankivsk's coat of arms"
+  },
+  {
+    "id": "UA63",
+    "oblast": "Kharkiv Oblast",
+    "capital": "Kharkiv",
+    "src": "img/ua-map/kharkiv.png",
+    "alt": "Kharkiv's coat of arms"
+  },
+  {
+    "id": "UA65",
+    "oblast": "Kherson Oblast",
+    "capital": "Kherson",
+    "src": "img/ua-map/kherson.png",
+    "alt": "Kherson's coat of arms"
+  },
+  {
+    "id": "UA68",
+    "oblast": "Khmelnytskyi Oblast",
+    "capital": "Khmelnytsk",
+    "src": "img/ua-map/khmelnitsk.png",
+    "alt": "Khmelnytsk's coat of arms"
+  },
+  {
+    "id": "UA30",
+    "oblast": "Kyiv Oblast",
+    "capital": "Kyiv",
+    "src": "img/ua-map/kyiv.png",
+    "alt": "Kyiv's coat of arms"
+  },
+  {
+    "id": "UA35",
+    "oblast": "Kirovohrad Oblast",
+    "capital": "Kropivnitskiy",
+    "src": "img/ua-map/kirovograd.png",
+    "alt": "Kropivnitskiy's coat of arms"
+  },
+  {
+    "id": "UA09",
+    "oblast": "Luhansk Oblast",
+    "capital": "Luhansk",
+    "src": "img/ua-map/lugansk.png",
+    "alt": "Luhansk's coat of arms"
+  },
+  {
+    "id": "UA46",
+    "oblast": "Lviv Oblast",
+    "capital": "Lviv",
+    "src": "img/ua-map/lviv.png",
+    "alt": "Lviv's coat of arms"
+  },
+  {
+    "id": "UA48",
+    "oblast": "Mykolaiv Oblast",
+    "capital": "Mykolaiv",
+    "src": "img/ua-map/mykolaiv.png",
+    "alt": "Mykolaiv's coat of arms"
+  },
+  {
+    "id": "UA51",
+    "oblast": "Odesa Oblast",
+    "capital": "Odesa",
+    "src": "img/ua-map/odesa.png",
+    "alt": "Odesa's coat of arms"
+  },
+  {
+    "id": "UA53",
+    "oblast": "Poltava Oblast",
+    "capital": "Poltava",
+    "src": "img/ua-map/poltava.png",
+    "alt": "Poltava's coat of arms"
+  },
+  {
+    "id": "UA56",
+    "oblast": "Rivne Oblast",
+    "capital": "Rivne",
+    "src": "img/ua-map/rivne.png",
+    "alt": "Rivne's coat of arms"
+  },
+  {
+    "id": "UA59",
+    "oblast": "Sumy Oblast",
+    "capital": "Sumy",
+    "src": "img/ua-map/sumy.png",
+    "alt": "Sumy's coat of arms"
+  },
+  {
+    "id": "UA61",
+    "oblast": "Ternopil Oblast",
+    "capital": "Ternopil",
+    "src": "img/ua-map/ternopil.png",
+    "alt": "Ternopil's coat of arms"
+  },
+  {
+    "id": "UA05",
+    "oblast": "Vinnytsa Oblast",
+    "capital": "Vinnytsa",
+    "src": "img/ua-map/vinnitsa.png",
+    "alt": "Vinnytsa's coat of arms"
+  },
+  {
+    "id": "UA07",
+    "oblast": "Volyn Oblast",
+    "capital": "Volyn",
+    "src": "img/ua-map/volyn.png",
+    "alt": "Volyn's coat of arms"
+  },
+  {
+    "id": "UA21",
+    "oblast": "Zakarpattia Oblast",
+    "capital": "Zakarpattia",
+    "src": "img/ua-map/zakarpattia.png",
+    "alt": "Zakarpattia's coat of arms"
+  },
+  {
+    "id": "UA23",
+    "oblast": "Zaporizhia Oblast",
+    "capital": "Zaporizhia",
+    "src": "img/ua-map/zaporizhia.png",
+    "alt": "Zaporizhia's coat of arms"
+  },
+  {
+    "id": "UA18",
+    "oblast": "Zhytomyr Oblast",
+    "capital": "Zhytomyr",
+    "src": "img/ua-map/zhytomyr.png",
+    "alt": "Zhytomyr's coat of arms"
+  },
+  {
+    "id": "UA43",
+    "oblast": "Krymea",
+    "capital": "Simferopol",
+    "src": "img/ua-map/krymea.png",
+    "alt": "Krymea's coat of arms"
+  }
+
+ ]

@@ -1,0 +1,51 @@
+.map {
+  width: 100vw;
+  height: 100vh;
+  padding: 20px;
+  background-color: $color1;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.map__title {
+  font-size: clamp(35px, 1.7463rem + 2.2059vw, 50px);;
+  font-weight:700 ;
+  line-height: 1;
+  letter-spacing: 2px;
+  text-align: center;
+  color: $color2;
+}
+
+.map__svg-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-height: 100%;
+}
+
+#ua {
+  width: 100%;
+  max-width: 1250px;
+  height: 100%;
+  fill: $color3;
+  stroke: #fff;
+
+}
+
+.svg-link {
+  background-color:$color3;
+}
+
+.svg-link path {
+  fill: $color3;
+}
+
+.inert {
+  pointer-events: none;
+}
+
